@@ -1,0 +1,1 @@
+typealias Smurf = Any
