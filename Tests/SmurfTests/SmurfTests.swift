@@ -1,5 +1,5 @@
 import XCTest
-@testable import Smurf
+import Smurf
 
 class smurfTests: XCTestCase {
     func testExample() {

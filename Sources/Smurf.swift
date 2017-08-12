@@ -1,1 +1,1 @@
-typealias Smurf = Any
+public typealias Smurf = Any
